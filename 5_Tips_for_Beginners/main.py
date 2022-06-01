@@ -39,7 +39,7 @@ myfun(1)
 x = 100 / 9
 print(x)
 
-# By useing // will round the remainder and print a whole value
+# By using // will round the remainder and print a whole value
 x = 100 // 9
 print(x)
 # Note you can also pass "round" prior to an action and will return the same value
